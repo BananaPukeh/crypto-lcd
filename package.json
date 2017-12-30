@@ -1,0 +1,26 @@
+{
+  "name": "crypto-lcd",
+  "version": "1.0.0",
+  "description": "Watch cryptocurrencies on a LCD display connected to your Raspberry PI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BananaPukeh/crypto-lcd.git"
+  },
+  "keywords": [
+    "LCD",
+    "Cryptocurrencies",
+    "crypto",
+    "raspberry",
+    "pi"
+  ],
+  "author": "Rutger Nijhuis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BananaPukeh/crypto-lcd/issues"
+  },
+  "homepage": "https://github.com/BananaPukeh/crypto-lcd#readme"
+}
